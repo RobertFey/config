@@ -1,0 +1,12 @@
+*.stl
+*.STL
+printer-*.cfg
+logs
+*.log
+crowsnest.log
+klippy.log
+moonraker.log
+!.gitkeep
+*.db
+*.bkp
+gcodes
